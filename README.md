@@ -49,3 +49,7 @@ MIT &copy; [Firede](https://github.com/firede)
 ---
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/firede/msee/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+## Development
+
+`npm test` runs the suite; `node bin/msee README.md` renders a file in the terminal.
