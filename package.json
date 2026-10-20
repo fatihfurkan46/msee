@@ -5,7 +5,8 @@
   "main": "./lib/msee.js",
   "bin": "./bin/msee",
   "scripts": {
-    "test": "env FORCE_COLOR=true tap --no-check-coverage test/**/*.js"
+    "test": "env FORCE_COLOR=true tap --no-check-coverage test/**/*.js",
+    "lint": "node --check bin/msee && node --check lib/msee.js"
   },
   "repository": {
     "type": "git",
@@ -47,5 +48,8 @@
   "devDependencies": {
     "stream-to-string": "^1.2.0",
     "tap": "^14.10.7"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
