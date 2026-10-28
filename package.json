@@ -16,7 +16,7 @@
     "ansi-regex": "^5.0.0",
     "ansicolors": "^0.3.2",
     "cardinal": "^1.0.0",
-    "chalk": "^2.3.1",
+    "chalk": "^6.0.1",
     "combined-stream-wait-for-it": "^1.1.0",
     "entities": "^2.0.3",
     "marked": "0.3.12",
