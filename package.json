@@ -21,7 +21,7 @@
     "entities": "^2.0.3",
     "marked": "0.3.12",
     "nopt": "^4.0.3",
-    "strip-ansi": "^6.0.0",
+    "strip-ansi": "^7.2.0",
     "table-header": "^0.2.2",
     "text-table": "^0.2.0",
     "through2": "^3.0.1",
